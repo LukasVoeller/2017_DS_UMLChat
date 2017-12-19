@@ -7,7 +7,7 @@ A client-server program to create UML diagrams together including a chat
   <img src="https://github.com/LukasVoeller/VTS_2017_UMLChat/blob/master/images/VTS_2017_ChatNeu.JPG" width="700"/>
 </p>
 
-------------------------------------------------- Programm starten -------------------------------------------------
+## Programm starten
 1. npm install -g bower
 2. npm install
 3. bower install
