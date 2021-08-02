@@ -1,4 +1,4 @@
-# VTS_2017_UMLChat
+# DS_2017_UMLChat
 A client-server program to create UML diagrams together including a chat
 
 <p>
